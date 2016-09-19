@@ -1,6 +1,6 @@
 # phase-0-gps-1
 
-git clone (URL)
+git clone (repo URL)
 brings the cloud-based repo to a local machine
 
 cd phase-0-gps-1
