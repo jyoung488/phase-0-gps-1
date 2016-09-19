@@ -7,4 +7,3 @@ A used the `git fetch` command.
 At some point we did have to use [Google](http://www.google.com).
 
 Coding!
-![Alt text](Screenshot.jpg)
